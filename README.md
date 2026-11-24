@@ -123,14 +123,16 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imtiazaly&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-   <img width="60%" src="https://streak-stats.demolab.com/?user=imtiazaly&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  &nbsp;
+   <img width="49%" src="https://streak-stats.demolab.com/?user=imtiazaly&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazaly&show_icons=true&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117" alt="Top Languages" />
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=imtiazaly&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=39d353" alt="Contribution Graph" />
+  &nbsp;
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=imtiazaly&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=39d353" alt="Contribution Graph" />
 </div>
 
 <hr/>
