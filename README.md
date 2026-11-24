@@ -66,6 +66,7 @@ I like to learn by building real projects.
         <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
         <li><strong>Work:</strong> REST APIs, authentication, database design</li>
       </ul>
+      </br>
       <p>
         <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql" alt="Backend Stack" />
       </p>
