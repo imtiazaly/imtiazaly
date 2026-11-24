@@ -28,7 +28,7 @@
 
 <div>
 
-  → I am a full stack developer from Pakistan.
+  → I am a full stack developer from Pakistan PK.
 
   → I build websites and web apps.
 
@@ -103,13 +103,13 @@
 
 <div>
 
-I keep my code easy to read.
+ ●  I keep my code easy to read.
 
-I use TypeScript to catch mistakes early.
+ ●  I use TypeScript to catch mistakes early.
 
-I test my work before I call it done.
+ ●  I test my work before I call it done.
 
-My pages work on small and large screens.
+ ●  My pages work on small and large screens.
 
 </div>
 
