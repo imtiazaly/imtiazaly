@@ -22,7 +22,7 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <h2>About Me</h2>
 
@@ -42,7 +42,7 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <h2>Tech Stack</h2>
 
@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-<br/>
+<hr/>
 
 <h2>How I Work</h2>
 
@@ -113,7 +113,7 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <h2>GitHub Activity</h2>
 
@@ -135,7 +135,7 @@
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=imtiazaly&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=39d353" alt="Contribution Graph" />
 </div>
 
-<br/>
+<hr/>
 
 <h2>Contact</h2>
 
