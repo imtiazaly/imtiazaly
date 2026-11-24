@@ -28,17 +28,17 @@
 
 <div>
 
-I am a full stack developer from Pakistan.
+  → I am a full stack developer from Pakistan.
 
-I build websites and web apps.
+  → I build websites and web apps.
 
-I build mobile apps with React Native and Expo.
+  → I build mobile apps with React Native and Expo.
 
-I build desktop apps with Electron.js.
+  → I build desktop apps with Electron.js.
 
-I write tests with Playwright and Postman.
-
-I like to learn by building real projects.
+  → I write tests with Playwright and Postman.
+  
+  → I like to learn by building real projects.
 
 </div>
 
