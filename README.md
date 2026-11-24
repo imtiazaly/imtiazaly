@@ -23,6 +23,7 @@
 </div>
 
 <hr/>
+<br/>
 
 <h2>About Me</h2>
 
@@ -43,6 +44,7 @@
 </div>
 
 <hr/>
+<br/>
 
 <h2>Tech Stack</h2>
 
@@ -98,6 +100,7 @@
 </table>
 
 <hr/>
+<br/>
 
 <h2>How I Work</h2>
 
@@ -114,6 +117,7 @@
 </div>
 
 <hr/>
+<br/>
 
 <h2>GitHub Activity</h2>
 
@@ -136,6 +140,7 @@
 </div>
 
 <hr/>
+<br/>
 
 <h2>Contact</h2>
 
