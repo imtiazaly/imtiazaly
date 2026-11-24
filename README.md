@@ -29,66 +29,62 @@
 
 ### 👨‍💻 Executive Summary
 
-Software Engineer with deep experience in architecting modern web applications, cross-platform mobile apps, and robust backend systems. Specializing in bridging the gap between high-velocity development and bulletproof reliability through automated quality gates.
+Software Engineer specializing in building full-stack web platforms, cross-platform mobile applications, and reliable automated test suites. Focused on combining rapid feature delivery with rock-solid architectural stability and end-to-end quality gates.
 
-- 🚀 **Specialization:** End-to-end full stack delivery, production SaaS platforms, and native mobile clients.
-- 🛡️ **Quality-First Mindset:** Automated E2E testing pipelines with Playwright ensuring zero-regression deployments.
-- ⚡ **Core Focus:** Clean architecture, performance optimization, scalable database schemas, and intuitive UI/UX.
+- 🚀 **Full-Stack Delivery:** Scalable web platforms with modern frontend frameworks and robust backend runtimes.
+- 📱 **Mobile & Desktop:** Cross-platform mobile apps using React Native & Expo, paired with native desktop solutions via Electron.js.
+- 🛡️ **Automated Quality:** End-to-end testing with Playwright to maintain high confidence across continuous deployments.
 
 ---
 
-### 🛠️ Technical Competencies & Stack
+### 🛠️ Core Technical Stack
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Frontend & Mobile Engineering</h4>
+      <h4>💻 Frontend Web Development</h4>
       <ul>
-        <li><strong>Web:</strong> React.js, Vue.js, Next.js, TypeScript, JavaScript (ES6+)</li>
-        <li><strong>Mobile & Desktop:</strong> React Native (Android / iOS), Electron.js</li>
-        <li><strong>UI & Styling:</strong> Tailwind CSS, Bootstrap, Responsive Systems, Figma-to-Code</li>
-        <li><strong>State & Architecture:</strong> Modular Component Design, State Closures, Clean Hooks</li>
+        <li><strong>Frameworks & Libraries:</strong> React.js, Vue.js, Inertia.js</li>
+        <li><strong>Language:</strong> TypeScript</li>
+        <li><strong>Styling & Design:</strong> Tailwind CSS, Bootstrap</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,bootstrap,electron,figma" alt="Frontend Stack" />
+        <img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,bootstrap" alt="Frontend Stack" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend Architecture & Databases</h4>
       <ul>
-        <li><strong>Runtimes & Frameworks:</strong> Node.js, Express, Laravel (PHP)</li>
-        <li><strong>API Design:</strong> High-Throughput RESTful APIs, Webhooks, Middleware Integration</li>
-        <li><strong>Databases:</strong> PostgreSQL, MySQL, Schema Optimization, Indexing</li>
-        <li><strong>Security & Patterns:</strong> RBAC, Secure Auth Flow (JWT/OAuth), MVC Architecture</li>
+        <li><strong>Runtimes & Frameworks:</strong> Node.js, Express.js, Laravel, PHP</li>
+        <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
+        <li><strong>Architecture:</strong> RESTful APIs, Secure Auth & Schema Design</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql,redis" alt="Backend Stack" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mysql" alt="Backend Stack" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ QA Automation & Testing</h4>
+      <h4>📱 Mobile & Desktop Engineering</h4>
       <ul>
-        <li><strong>Test Frameworks:</strong> Playwright (E2E & Component Testing)</li>
-        <li><strong>Automation:</strong> Cross-browser testing, automated regression suites, visual testing</li>
-        <li><strong>CI Integration:</strong> Seamless test execution on continuous integration pipelines</li>
-        <li><strong>Quality Strategy:</strong> Defect tracking, root cause analysis, test coverage optimization</li>
+        <li><strong>Mobile Apps:</strong> React Native, Expo (Android & iOS)</li>
+        <li><strong>Desktop Apps:</strong> Electron.js</li>
+        <li><strong>Focus:</strong> Cross-platform performance, offline states, native APIs</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,postman" alt="QA Stack" />
+        <img src="https://skillicons.dev/icons?i=react,electron" alt="Mobile and Desktop Stack" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 DevOps & Engineering Tooling</h4>
+      <h4>🛡️ QA Automation & Developer Tools</h4>
       <ul>
-        <li><strong>Version Control:</strong> Git, GitHub Flow, Collaborative Code Reviews</li>
-        <li><strong>Environment & Delivery:</strong> Docker containers, CI/CD Workflows, Linux environments</li>
-        <li><strong>Monitoring & Maintenance:</strong> Production debugging, API health checks, log analysis</li>
-        <li><strong>Best Practices:</strong> Agile/Scrum, DRY, SOLID, Test-Driven mindset</li>
+        <li><strong>QA & E2E Testing:</strong> Playwright (Page Object Model, Automation)</li>
+        <li><strong>Version Control:</strong> Git, GitHub</li>
+        <li><strong>Primary Environment:</strong> VS Code</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vscode" alt="DevOps Stack" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tooling Stack" />
       </p>
     </td>
   </tr>
@@ -100,9 +96,9 @@ Software Engineer with deep experience in architecting modern web applications, 
 
 > **"Simplicity over complexity, reliability over guesswork."**
 
-- **Maintainable Codebases:** Strict adherence to clean architecture, modular components, and predictable data flow.
-- **Automated Confidence:** Production software should be backed by comprehensive automated test suites, not manual hope.
-- **Business-First Delivery:** Technology choices are driven by speed, scalability, cost-effectiveness, and real user value.
+- **Clean & Maintainable Architecture:** Modular component hierarchies, strict typing with TypeScript, and predictable API responses.
+- **Automated Quality First:** Deploying with confidence through comprehensive automated end-to-end testing with Playwright.
+- **Production-Ready Performance:** Optimized database queries, lightweight styling, and responsive user experiences across web and mobile.
 
 ---
 
@@ -124,14 +120,14 @@ Software Engineer with deep experience in architecting modern web applications, 
 
 ### 🤝 Let's Connect
 
-Open for strategic engineering roles, SaaS product development, technical leadership, and consulting opportunities.
+Open for strategic full-stack roles, mobile app development, SaaS engineering, and technical consulting.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/imtiaz-ali-79476a385/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Imtiaz_Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.imtiazaly.dev" target="_blank">
+  <a href="https://www.imtiazali.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-imtiazali.dev-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;&nbsp;
