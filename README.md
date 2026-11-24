@@ -106,8 +106,6 @@
    <img width="49%" src="https://streak-stats.demolab.com/?user=imtiazaly&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=39D353&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 <div align="center">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazaly&show_icons=true&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=39d353&bg_color=0d1117" alt="Top Languages" />
   &nbsp;
