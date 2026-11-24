@@ -47,8 +47,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>Frontend</h4>
-      <hr />
+      <h3>Frontend</h3>
       <ul>
         <li><strong>Frameworks and Libraries:</strong> React.js, Vue.js, Inertia.js</li>
         <li><strong>Languages:</strong> TypeScript, JavaScript</li>
@@ -59,8 +58,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>Backend and Databases</h4>
-      <hr />
+      <h3>Backend and Databases</h3>
       <ul>
         <li><strong>Frameworks:</strong> Node.js, Express.js, Laravel, PHP</li>
         <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
@@ -74,8 +72,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Mobile and Desktop</h4>
-      <hr />
+      <h3>Mobile and Desktop</h3>
       <ul>
         <li><strong>Mobile Apps:</strong> React Native, Expo (Android and iOS)</li>
         <li><strong>Desktop Apps:</strong> Electron.js</li>
@@ -85,8 +82,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>Testing and Tools</h4>
-      <hr />
+      <h3>Testing and Tools</h3>
       <ul>
         <li><strong>Testing:</strong> Postman, Playwright (Page Object Model)</li>
         <li><strong>Version Control:</strong> Git, GitHub</li>
