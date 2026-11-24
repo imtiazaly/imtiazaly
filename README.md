@@ -45,11 +45,11 @@ Software Engineer specializing in building full-stack web platforms, cross-platf
       <h4>💻 Frontend Web Development</h4>
       <ul>
         <li><strong>Frameworks & Libraries:</strong> React.js, Vue.js, Inertia.js</li>
-        <li><strong>Language:</strong> TypeScript</li>
+        <li><strong>Language:</strong> TypeScript, JavaScript</li>
         <li><strong>Styling & Design:</strong> Tailwind CSS, Bootstrap</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,bootstrap" alt="Frontend Stack" />
+        <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,bootstrap" alt="Frontend Stack" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -79,12 +79,12 @@ Software Engineer specializing in building full-stack web platforms, cross-platf
     <td width="50%" valign="top">
       <h4>🛡️ QA Automation & Developer Tools</h4>
       <ul>
-        <li><strong>QA & E2E Testing:</strong> Playwright (Page Object Model, Automation)</li>
+        <li><strong>QA & E2E Testing:</strong> Postman, Playwright (Page Object Model, Automation)</li>
         <li><strong>Version Control:</strong> Git, GitHub</li>
         <li><strong>Primary Environment:</strong> VS Code</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tooling Stack" />
+        <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" alt="Tooling Stack" />
       </p>
     </td>
   </tr>
