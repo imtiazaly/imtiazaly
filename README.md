@@ -98,23 +98,6 @@
 <hr/>
 <br/>
 
-<h2>How I Work</h2>
-
-<div>
-
- ●  I keep my code easy to read.
-
- ●  I use TypeScript to catch mistakes early.
-
- ●  I test my work before I call it done.
-
- ●  My pages work on small and large screens.
-
-</div>
-
-<hr/>
-<br/>
-
 <h2>GitHub Activity</h2>
 
 <div align="center">
